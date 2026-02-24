@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-An advanced, AI-powered web application designed to help farmers, gardeners, and agricultural researchers quickly identify common diseases in plant leaves. Built with a Deep Learning model and deployed via Streamlit, this tool provides instant predictions and confidence scores.
+An AI-powered web application designed to help farmers, gardeners, and agricultural researchers quickly identify common diseases in plant leaves. Built with a Deep Learning model and deployed via Streamlit, this tool provides instant predictions and confidence scores.
 
 ###  **[Try the Live Demo Here!](https://ai-plant-disease-prediction-app.streamlit.app/)**
 
